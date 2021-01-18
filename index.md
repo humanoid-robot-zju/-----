@@ -1,1 +1,1 @@
-![gongzhong](1.png)
+![gongzhong](1.PNG)
